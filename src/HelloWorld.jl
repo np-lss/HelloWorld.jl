@@ -1,8 +1,9 @@
 module HelloWorld
 
-# Write your package code here.
-function HelloWorld() 
+function greet() 
    "Hello, World!"
 end
+
+greet2()="Hello, World!!!"
 
 end
