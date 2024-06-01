@@ -1,0 +1,13 @@
+name = "HelloWorld"
+uuid = "7f3d4f46-94b1-4a90-803b-1e6098c77ffb"
+authors = ["Nikhil Padmanabhan <nikhil.padmanabhan@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
